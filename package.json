@@ -1,0 +1,17 @@
+{
+  "name": "hid-forward",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "hidstream": "git+https://github.com/alexking/hidstream.git",
+    "js-yaml": "^3.10.0",
+    "mqtt": "^2.15.2",
+    "node-yaml": "^3.1.1"
+  }
+}

@@ -1,0 +1,6 @@
+mqtt:
+  url: http://127.0.0.1
+  topic: barcodes
+
+hid: 
+  device: /dev/hidraw0
